@@ -1,6 +1,6 @@
 # Olá, meu nome é Cintia 👋
 
-Sou analista de sistemas e apaixonado por tecnologia, com conhecimento em algumas linguagens e ferramentas. Aqui estão alguns detalhes sobre mim:
+Sou analista de sistemas e apaixonada por tecnologia, com conhecimento em algumas linguagens e ferramentas. Aqui estão alguns detalhes sobre mim:
 
 ## 🚀 Tecnologias que eu conheço:
 - Excel Avançado (VBA e Macros)
